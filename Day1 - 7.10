@@ -1,1 +1,2 @@
-242
+# step1:Importing the libraries 导入库
+import numpy as np
